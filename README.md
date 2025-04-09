@@ -7,7 +7,6 @@ I love privacy. Open-srouce tools are one of the ways to express that. I've done
 ### My Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=empotik&langs_count=5&layout=compact&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=empotik&layout=compact&langs_count=10&theme=radical)
-![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=empotik&theme=dark)
 
 
 <!--
