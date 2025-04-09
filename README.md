@@ -6,6 +6,9 @@ I love privacy. Open-srouce tools are one of the ways to express that. I've done
 
 ### My Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=5&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=radical)
+![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+
 
 <!--
 **Empotik/Empotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
