@@ -1,6 +1,8 @@
 ## Hi there, It's Empotik👋
 
-I love privacy. Open-source tools are one of the ways to express that. I've done a lot of C, C++, and Python. I'm competennt with Assembly, SystemVerilog, and Verilog. I've also done some RISC-V, some Intel (i mean Altera) and AMT Artix FPGAs. As for now I'm basically done with engineering. I'm currently exploring AI/ML and networking. I'd like to do more software stuff onward.
+I love privacy. Open-source tools are one of the ways to express that. I've done a lot of C, C++, and Python. I'm competennt with Assembly, SystemVerilog, and Verilog. I've also done some RISC-V, some Intel (i mean Altera!) and AMD Artix FPGAs. As for now I'm basically done with engineering. I'm currently exploring AI/ML and networking. I'd like to do more software stuff onward.
+
+When I'm not coding, you won't find me gaming, watching Anime, and perhaps, drawing. Cos I privatized everything, lol
 
 ## 🖥️ Languages & Tools
 
