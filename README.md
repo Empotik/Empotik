@@ -1,11 +1,10 @@
 ## Hi there, It's Empotik👋
 
-I love privacy. Open-srouce tools are one of the ways to express that. I've done a lot of C, C++, and Python. I'm competennt with Assembly, SystemVerilog, and Verilog. I've also done some RISC-V, some Intel (i mean Altera) and AMT Artix FPGAs. As for now I'm basically done with engineering. I'm currently exploring AI/ML and networking. I'd like to do more software stuff onward.
+I love privacy. Open-source tools are one of the ways to express that. I've done a lot of C, C++, and Python. I'm competennt with Assembly, SystemVerilog, and Verilog. I've also done some RISC-V, some Intel (i mean Altera) and AMT Artix FPGAs. As for now I'm basically done with engineering. I'm currently exploring AI/ML and networking. I'd like to do more software stuff onward.
 
 ## 🖥️ Languages & Tools
 
 ### My Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=empotik&langs_count=5&layout=compact&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=empotik&layout=compact&langs_count=10&theme=radical)
 
 
